@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomWord</string>
+    <string name="fetch_random_word">Find random word</string>
+    <string name="shuffle">Shuffle</string>
 </resources>
